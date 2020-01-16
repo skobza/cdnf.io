@@ -1,0 +1,28 @@
+left_links:
+  - name: News
+    link: /blog/
+  - name: CNF List
+    link: /cnf_list/
+  - name: Contact Us
+    link: /contact/
+right_links:
+  - name:
+    link: https://www.linkedin.com/company/pantheontech/
+    new_window: true
+    social_icon: LinkedIn
+  - name:
+    link: https://twitter.com/Pantheon_Tech
+    social_icon: Twitter
+    new_window: true
+  - name:
+    link: https://www.youtube.com/channel/UCah9FULitYR7hpSLSljdRZQ
+    social_icon: YouTube
+    new_window: true
+  - name:
+    link: https://github.com/PantheonTechnologies
+    social_icon: GitHub
+    new_window: true
+  - name:
+    link: ma&#105;lto&#58;c&#110;f-&#105;nfo&#64;p&#97;ntheon&#46;t&#101;ch?subject=CDNF.io Question
+    social_icon: Email
+    new_window: true

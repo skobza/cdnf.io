@@ -1,0 +1,106 @@
+# ----
+# Site
+
+title: CDNF.io
+url: "https://cdnf.io"
+baseurl:
+google_analytics_key: UA-80607327-3
+google_maps_javascript_api_key:
+disqus_shortname:
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Cloud-Native Network Functions by PANTHEON.tech
+author:
+  name: PANHTEON.tech
+  email: info@pantheon.tech
+  twitter: Pantheon_Tech
+social:
+  name: PANTHEON.tech
+  links:
+    - https://pantheon.tech
+
+# -----
+# Build
+
+timezone: Etc/UTC
+
+permalink: pretty
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  staff_members:
+    _hide_content: true
+    _icon: account_circle
+
+paginate: 10
+paginate_path: "/blog/:num/"
+
+jekyll-archives:
+  enabled: ['categories']
+
+defaults:
+
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: "post"
+      _options:
+        image:
+          width: 2000
+          height: 1322
+          resize_style: cover
+          uploads_dir: "/images/post_uploads"
+        content:
+          width: 1500
+          height: 2000
+          uploads_dir: "/images/post_uploads"
+  -
+    scope:
+      path: "contact-success.html"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      image:
+        width: 2000
+        height: 1322
+        resize_style: cover
+      bottom_image:
+        width: 2000
+        height: 1322
+        resize_style: cover
+
+# -----------
+
+social_icons:
+  - Facebook
+  - LinkedIn
+  - Twitter
+  - YouTube
+  - Email
+  - GitHub
+  - Pantheon
+
+_comments:
+  description: Customized cloud-native functions for your business-needs.
+  blurb: Software prototyping and development company.
