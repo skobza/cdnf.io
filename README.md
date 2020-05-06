@@ -10,6 +10,7 @@ Proudly running on Jekyll. A static website to showcase our cloud-native functio
 - DNS
 - Firewall
 - IPS
+- OpenVPN
 - IPsec
 - NAT44
 - NAT64
