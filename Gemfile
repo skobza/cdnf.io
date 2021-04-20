@@ -10,7 +10,7 @@ gem 'activesupport', '~> 6.0', '>= 6.0.3.4'
 
 group :jekyll_plugins do
   gem 'jekyll-paginate', '1.1.0'
-  gem 'jekyll-seo-tag', '2.6.1'
+  gem 'jekyll-seo-tag', '2.7.1'
   gem 'jekyll-sitemap', '1.4.0'
-  gem 'github-pages', '209'
+  gem 'github-pages', '214'
 end
