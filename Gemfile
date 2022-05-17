@@ -10,6 +10,8 @@ gem 'activesupport', '~> 6.0', '>= 6.0.3.4'
 
 gem 'tzinfo-data'
 
+gem "nokogiri", ">= 1.13.4"
+
 group :jekyll_plugins do
   gem 'jekyll-paginate', '1.1.0'
   gem 'jekyll-seo-tag', '2.8.0'
