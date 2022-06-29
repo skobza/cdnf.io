@@ -8,4 +8,4 @@ image:
 author_staff_member:
 link: https://pantheon.tech/tutorial-stonework-gns3/
 ---
-CDNF.io YAML Editor, is an open-source, YAML configuration editor & verification tool - part of the CDNF.io portfolio!
+We made our data plane for managing cloud-native network functions, StoneWork, available on the GNS 3 marketplace.
