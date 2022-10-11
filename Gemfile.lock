@@ -290,6 +290,7 @@ DEPENDENCIES
   github-pages (= 225)
   jekyll (= 3.9.0)
   jekyll-paginate (= 1.1.0)
+  jekyll-redirect-from
   jekyll-seo-tag (= 2.8.0)
   jekyll-sitemap (= 1.4.0)
   nokogiri (>= 1.13.4)

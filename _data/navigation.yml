@@ -1,10 +1,8 @@
   - name: About
     link: /what_is_cnf/
-  - name: News
-    link: /blog/
-  - name: CNF List
-    link: /cnf_list/
-  - name: Use Cases
-    link: /use_case/
-  - name: Contact Us
-    link: /contact/
+  - name: CNF List <img src="/images/ext.svg" width="17" height="17"> 
+    link: https://pantheon.tech/products/stonework/network-functions/
+  - name: Use Cases <img src="/images/ext.svg" width="17" height="17"> 
+    link: https://pantheon.tech/products/stonework/use-cases/
+  - name: Contact Us <img src="/images/ext.svg" width="17" height="17"> 
+    link: https://pantheon.tech/contact-us/
