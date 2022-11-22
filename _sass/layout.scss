@@ -208,10 +208,11 @@ blockquote:before {
 .learn-more {
 	position: absolute;
 	left: 0;
-	bottom: 60px;
-	text-align: center;
+	bottom: 1em;
 	font-size: 1.4em;
 	width: 100%;
+	display: flex;
+	justify-content: center;
 
 	a {
 		text-decoration: none;
