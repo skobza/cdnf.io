@@ -30,6 +30,3 @@ Derived from [CloudCannon](http://cloudcannon.com/) [__Frisco Theme__](https://g
 
 # Licence
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-
-FOO BAR
